@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Traczyn
 - 👀 I’m interested in programming, games, cooking.
-- 🌱 I’m currently learning python and java.
+- 🌱 I’m currently diving in JavaScript (React), Bootstrap, MongoDB.
 - 📫 How to reach me: traczyn@gmail.com
 
 <!---
